@@ -7,4 +7,5 @@ def roll
   expect(roll).to be_a(Interger)
   expect(roll).to be > 0
   expect(roll).to be < 7
+  
 end
